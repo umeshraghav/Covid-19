@@ -2,14 +2,14 @@
  
  ##Technologies Used 
  
- #API 
+ API :: 
  https://disease.sh/v3/covid-19/all
  
- #UI
+ UI :: 
  Material-UI
  
- #Charts
-react-chartjs-2
+ Charts :: 
+react-chartjs-2 Chart.Js
 
-#Framework
+Framework
 React
