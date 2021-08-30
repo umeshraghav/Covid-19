@@ -10,7 +10,7 @@ import Loading from './Components/Loading'
 export default function App() {
     const [data, setData] = useState("");
     const [countries, setCountries] = useState([]);
-    const [country, setCountry] = useState("global");
+    const [country, setCountry] = useState("in");
     const [loading, setLoading] = useState(true)
 
 
